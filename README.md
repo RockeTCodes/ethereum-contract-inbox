@@ -1,5 +1,5 @@
 # ethereum-contract-inbox
-This is my first ethereum contract project . It's a simple contract allowing users to "Set New message" and "Get Message".
+This is my first ethereum blockchain based project . It's a simple contract allowing users to "Set New message" and "Get Message".
 
 
 The old version i.e "inbox" is deployed at 0xA8C59AfB2E06089ED21771a38e58DD717970d819 on goerli test network.
